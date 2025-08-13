@@ -1,0 +1,6 @@
+<resources>
+    <string name="images_folder_name">الصور\n</string>
+    <string name="videos_folder_name">الفيديوهات</string>
+    <string name="all_media_folder_name">الوسائط</string>
+    <string name="unknown_folder_name">غير معروف</string>
+</resources>
