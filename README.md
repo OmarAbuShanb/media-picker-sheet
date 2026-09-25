@@ -11,7 +11,7 @@ A modern, high-performance, and customizable Media Picker Bottom Sheet library f
 
 ## Demo
 
-<!-- You can drag and drop your demo GIF or images here on GitHub -->
+<img width="400" height="889" alt="Screenrecorder-2026-09-25-14-56-23-340" src="https://github.com/user-attachments/assets/2ecdc96d-7707-43d9-83af-fe071d8672ce" />
 
 
 ---
